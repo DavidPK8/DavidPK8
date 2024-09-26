@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy estudiante de la Escuela Politécnica Nacional estudiando la carrera de Tecnología <br>en Desarrollo de Software, actualmente cursando 4to Semestre de mi carrera en busca<br>de oportunidades para realizar mis Pasantías/Prácticas Profesionales para mejorar<br>mis habilidades como programador dentro del campo laboral
+Soy estudiante de la Escuela Politécnica Nacional estudiando la carrera de Tecnología <br>en Desarrollo de Software, actualmente cursando 5to Semestre de mi carrera en busca<br>de oportunidades para realizar mis Pasantías/Prácticas Profesionales para mejorar<br>mis habilidades como programador dentro del campo laboral
 
 
 ## 🌐 Socials:
