@@ -1,6 +1,5 @@
 # 💫 About Me:
-Soy estudiante de la Escuela Politécnica Nacional estudiando la carrera de Tecnología en Desarrollo de Software, actualmente cursando 5to Semestre de mi carrera en busca de oportunidades para realizar Pasantias para mejorar mis habilidades como programador dentro del campo laboral y a futuro convertirme en un programador Full Stack.
-
+Tecnólogo en Desarrollo de Software con interés en el desarrollo Full Stack. Busco oportunidades laborales que me permitan crecer profesionalmente, adquiriendo nuevas habilidades y enfrentando desafíos tecnológicos. Me caracterizo por ser una persona responsable, con gran capacidad de aprendizaje y una actitud proactiva para resolver problemas y adaptarme a nuevas tecnologías
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davidvallejo088) 
