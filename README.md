@@ -1,5 +1,5 @@
 # 💫 About Me:
-Tecnólogo en Desarrollo de Software con interés en el desarrollo Full Stack. Busco oportunidades laborales que me permitan crecer profesionalmente, adquiriendo nuevas habilidades y enfrentando desafíos tecnológicos. Me caracterizo por ser una persona responsable, con gran capacidad de aprendizaje y una actitud proactiva para resolver problemas y adaptarme a nuevas tecnologías
+Tecnólogo en Desarrollo de Software con enfoque en desarrollo Full Stack. Me apasiona aprender nuevas tecnologías, afrontar retos técnicos y trabajar en equipo. Me destaco por mi compromiso, capacidad de adaptación y enfoque proactivo para resolver problemas.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/davidvallejo088) 
